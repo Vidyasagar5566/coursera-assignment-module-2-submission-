@@ -7,7 +7,7 @@
 
 		#ramana {
                  width:400px;
-                 height:155px;
+                 height:250px;
                  float:left;
                  margin-left:30px;
                  border:5px solid black;
@@ -16,7 +16,7 @@
 		    }
 		#vidya {
                  width:400px;
-                 height:155px;
+                 height:250px;
                  float:left;
                  margin-left:30px;
                  border:5px solid black;
@@ -25,7 +25,7 @@
 		    }
 		#sagar {
                  width:400px;
-                 height:155px;
+                 height:250px;
                  float:left;
                  margin-left:30px;
                  border:5px solid black;
@@ -43,7 +43,7 @@
 			border:3px solid black;
 		}
 		.ramana1 {
-			margin-top:40px;
+			clear:right;
 		}
 
 		.vidya { 
@@ -56,7 +56,7 @@
 			border:3px solid black;
 		}
 		.vidya1 {
-			margin-top:40px;
+			clear:right;
 		}
 
 		.sagar { 
@@ -69,7 +69,7 @@
 			border:3px solid black;
 		}
 		.sagar1 {
-			margin-top:40px;
+			clear:right;
 		}
 
 
