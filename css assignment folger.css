@@ -34,7 +34,7 @@
 		    }
 
 		.ramana { 
-			margin:0;
+			margin-top:0;
 			text-align: center;
 			background-color:pink;
 			float:right;
@@ -47,7 +47,7 @@
 		}
 
 		.vidya { 
-			margin:0;
+			margin-top:0;
 			text-align: center;
 			background-color:red;
 			float:right;
@@ -60,7 +60,7 @@
 		}
 
 		.sagar { 
-			margin:0;
+			margin-top:0;
 			text-align: center;
 			background-color:yellow;
 			float:right;
@@ -75,9 +75,9 @@
 
 
 @media (min-width:768px;) and (max-width:991px;) {
-	    #ramana {
+		#ramana {
                  width:400px;
-                 height:155px;
+                 height:250px;
                  float:left;
                  margin-left:30px;
                  border:5px solid black;
@@ -86,7 +86,7 @@
 		    }
 		#vidya {
                  width:400px;
-                 height:155px;
+                 height:250px;
                  float:left;
                  margin-left:30px;
                  border:5px solid black;
@@ -94,8 +94,8 @@
                  margin-top:40px;
 		    }
 		#sagar {
-                 width:100%;
-                 height:155px;
+                 width:400px;
+                 height:250px;
                  float:left;
                  margin-left:30px;
                  border:5px solid black;
@@ -104,7 +104,7 @@
 		    }
 
 		.ramana { 
-			margin:0;
+			margin-top:0;
 			text-align: center;
 			background-color:pink;
 			float:right;
@@ -113,11 +113,11 @@
 			border:3px solid black;
 		}
 		.ramana1 {
-			margin-top:40px;
+			clear:right;
 		}
 
 		.vidya { 
-			margin:0;
+			margin-top:0;
 			text-align: center;
 			background-color:red;
 			float:right;
@@ -126,10 +126,11 @@
 			border:3px solid black;
 		}
 		.vidya1 {
-			margin-top:40px;
+			clear:right;
 		}
+
 		.sagar { 
-			margin:0;
+			margin-top:0;
 			text-align: center;
 			background-color:yellow;
 			float:right;
@@ -138,7 +139,5 @@
 			border:3px solid black;
 		}
 		.sagar1 {
-			margin-top:40px;
-
+			clear:right;
 		}
-	}
