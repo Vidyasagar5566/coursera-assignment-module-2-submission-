@@ -1,5 +1,3 @@
-# coursera-assignment-module-2-submission-
-
 <!DOCTYPE html>
 <html>
 <head>
